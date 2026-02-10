@@ -1,6 +1,6 @@
 # GestureHUD
 
-Real-time hand gesture control with a transparent HUD overlay for Windows. Uses a webcam to track hand landmarks via MediaPipe and translates gestures into mouse actions — cursor movement, clicks, drag, and scroll — while rendering a see-through heads-up display over your desktop.
+Real-time hand gesture control with a transparent HUD overlay for Windows. Uses a webcam to track hand landmarks via MediaPipe and translates gestures into mouse actions cursor movement, clicks, drag, and scroll while rendering a see-through heads-up display over your desktop.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
