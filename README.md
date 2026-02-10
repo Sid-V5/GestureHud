@@ -8,12 +8,12 @@ Real-time hand gesture control with a transparent HUD overlay for Windows. Uses 
 
 ## Features
 
-- **Cursor control** — index fingertip drives the system cursor
-- **Left click** — pinch index finger to thumb
-- **Right click** — pinch middle finger to thumb
-- **Drag** — close fist to hold left button
-- **Scroll** — peace/V-sign gesture, move hand up/down
-- **HUD overlay** — transparent, click-through fullscreen overlay with:
+- **Cursor control** - index fingertip drives the system cursor
+- **Left click** - pinch index finger to thumb
+- **Right click** - pinch middle finger to thumb
+- **Drag** - close fist to hold left button
+- **Scroll** - peace/V-sign gesture, move hand up/down
+- **HUD overlay** - transparent, click-through fullscreen overlay with:
   - Hand skeleton wireframe
   - Animated cursor reticle
   - System telemetry (CPU, RAM, battery)
